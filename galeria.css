@@ -1,0 +1,11 @@
+body {
+    background-color: #447E97;
+}
+
+table tr td {
+    padding: 20px;
+}
+
+table tr td img {
+    width: 300px;
+}

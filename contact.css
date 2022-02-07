@@ -1,0 +1,18 @@
+body {
+    background-color: #447E97;
+}
+
+fieldset {
+    border-color: #507483;
+}
+
+fieldset table tr td div.email input[type="text"] {
+    height: 20px;
+    width: 500px;
+}
+
+fieldset table tr td div.asunto textarea {
+    width: 500px;
+      height: 200px;
+      resize: none;
+}

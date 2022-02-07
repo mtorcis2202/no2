@@ -1,0 +1,69 @@
+body {
+    margin:0;
+}
+
+div.cabecera {
+    height: 150px;
+    background-color: #7CD8FF;
+    text-align: center;
+    padding: 0px;
+}
+
+div.cabecera h1 {
+    padding-top: 20px;
+}
+
+div.menu {
+    width: 20%;
+    height: 470px;
+    background-color: #7CD8FF;
+    float: left;
+    padding: 0px;
+}
+
+div.menu div {
+    width: 100%;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+
+div.menu div.claro {  
+    background-color: #AFE8FF; 
+    color: #447E97;
+}
+
+div.menu div.oscuro {
+  color: #AFE8FF;
+}
+
+div.principal {
+    width: 80%;
+    height: 470px;
+    float: right;
+    background-color: #447E97;
+}
+
+div.menu div a:link, a:visited, a:active {
+  color: #507483;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+div.menu div a:hover {
+  color: #2B5F76;
+  text-decoration: none;
+  text-shadow: 0.1em 0.1em 0.05em gray;
+}
+
+div.principal iframe {
+  position: absolute;
+  width: 1089px;
+  height: 470px;
+  background-image: url(../Images/profile.jpg);
+  background-size: 1089px 470px;
+}

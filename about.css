@@ -1,0 +1,88 @@
+body {
+    background-color: #447E97;
+}
+
+h1 {
+    text-align: center;
+    color: #AFE8FF;
+}
+
+div.primlinea hr {
+    border-color: #507483;
+    width: 50%;
+    align-items: center;
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+
+div.proposito div.proposito2 h2 {
+    text-align: center;
+    text-decoration: underline dotted black;
+}
+
+div.proposito div.proposito2 {
+    width: 600px;
+    position: absolute;
+    top: 80px;
+    left: 400px;
+}
+
+div.proposito div.proposito2 p {
+    text-align: justify;
+}
+
+div.proposito img {
+    width: 350px;
+    position: absolute;
+    top: 80px;
+}
+
+div.antecedentes div.antecedentes2 h2 {
+    text-align: center;
+    text-decoration: underline dotted black;
+}
+
+div.antecedentes div.antecedentes2 {
+    width: 600px;
+    position: absolute;
+    top: 380px;
+}
+
+div.antecedentes img {
+    width: 400px;
+    position: absolute;
+    top: 380px;
+    left: 650px;
+}
+
+div.antecedentes div.antecedentes2 p {
+    text-align: justify;
+}
+
+div.seglinea hr {
+    border-color: #507483;
+    width: 50%;
+    align-items: center;
+    position: absolute;
+    top: 730px;
+    left: 250px;
+}
+
+div.instalaciones {
+    position: absolute;
+    top: 740px;
+}
+
+div.instalaciones h2 {
+    text-align: center;
+    text-decoration: underline dotted black;
+}
+
+div.instalaciones p {
+    text-align: center;
+}
+
+div.instalaciones table tr td img {
+    width: 525px;
+}
